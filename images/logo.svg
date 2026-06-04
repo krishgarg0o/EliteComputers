@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 96" role="img" aria-labelledby="title desc">
+  <title id="title">Elite Computers logo</title>
+  <desc id="desc">Original geometric EC monogram with blue and orange technology accents.</desc>
+  <defs>
+    <linearGradient id="ecBlue" x1="38" x2="112" y1="14" y2="86" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="96" fill="none"/>
+  <g transform="translate(12 8)">
+    <path d="M18 14 40 2h50l14 14v18H76V24H42l-14 8v32l14 8h34V62h28v18L90 94H40L18 82 6 62V34Z" fill="#0F172A"/>
+    <path d="M43 22h53v14H43Zm0 22h42v14H43Zm0 22h53v14H43Z" fill="url(#ecBlue)"/>
+    <path d="M102 18h20l10 10v16h-16V32h-14Z" fill="#F97316"/>
+    <path d="M102 62h14V50h16v16l-10 10h-20Z" fill="#F97316"/>
+    <circle cx="128" cy="48" r="5" fill="#F97316"/>
+  </g>
+  <g fill="#0F172A">
+    <text x="150" y="43" font-family="Inter, Arial, sans-serif" font-size="29" font-weight="800" letter-spacing="0">Elite Computers</text>
+    <text x="152" y="67" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#2563EB">Technology Partner Since 2009</text>
+  </g>
+</svg>
